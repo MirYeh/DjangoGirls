@@ -29,7 +29,8 @@ h1, h2, h3, h4 {
 }
 
 .date {
-    color: #828282;
+    color: #A4A4A4;
+    padding-bottom: 10px;
 }
 
 .save {
